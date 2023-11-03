@@ -7,7 +7,7 @@ Requirements:
 - overlay picture in 1080x1080 (testet with png)
 
 Function: 
-- takes an image an scale it up/down to the size of the overlay picture. (Scale depends on the smaller dimension)
+- takes an image and scale it up/down to the size of the overlay picture. (Scale depends on the smaller dimension)
 - crop the middle of the picture
 - works on horizontal or vertical images
 - download the canvas (note: when executed locally then the browser will scream for https)
